@@ -55,7 +55,7 @@ This project focuses on creating a series of insightful and aesthetically pleasi
 **Skills Demonstrated:** Data Visualization, Matplotlib, Seaborn, Visual Storytelling, Chart Selection, Creating Impactful Visuals.
 
 ### 📬 Contact Information
-For more about me, visit my [GitHub Profile]_() or connect on [LinkedIn]_()
+For more about me, visit my [GitHub Profile]_(https://github.com/shahiayush072) or connect on [LinkedIn]_()
 
 
 
